@@ -1,0 +1,4 @@
+# Ignorar las carpetas de entornos virtuales (¡Lo más importante!)
+env/
+venv/
+.env/
